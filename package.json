@@ -1,0 +1,15 @@
+{
+  "name": "css-varibles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "my-sass": "node-sass -w scss/style.scss style.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
